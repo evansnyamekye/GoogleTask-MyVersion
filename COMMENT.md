@@ -1,4 +1,4 @@
-This is a javascript apllication that will outline how to display things on a web page. 
+This is a javascript application that will outline how to display things on a web page. 
 the tool that will be used to perform the functionalities on the website is JAVASCRIPT. 
 
 HTML - I will use HTML Semantic tag to render visuals. 
